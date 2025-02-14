@@ -1,0 +1,15 @@
+truncate almacen_movimientos;
+truncate caja;
+truncate caja_detalle;
+truncate combo_detalle;
+truncate compras;
+truncate compras_detalle;
+truncate comprobante;
+TRUNCATE comprobante_detalle;
+truncate egresos;
+truncate mst_images_productos;
+truncate mst_mesas;
+truncate mst_producto;
+truncate mst_producto_sucursal;
+truncate ordenes;
+truncate recetas_producto;
